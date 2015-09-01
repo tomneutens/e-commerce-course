@@ -78,9 +78,8 @@ The README.txt file in the \url{/themes} directory says the following:\\
 \textit{"Place downloaded and custom themes that modify your site's appearance in this directory to ensure clean separation from Drupal core and to facilitate safe, self-contained code updates. Contributed themes from the Drupal community may be downloaded at \url{http://drupal.org/project/themes}.	It is safe to organize themes into subdirectories and is recommended to use	Drupal's sub­theme functionality to ensure easy maintenance and upgrades. In multisite configuration, themes found in this directory are available to all sites. In addition to this directory, shared common themes may also be kept in the \url{sites/all/themes} directory and will take precedence over themes in this directory. Alternatively, the \url{sites/your_site_name/themes} directory pattern may be used to restrict themes to a specific site instance. Refer to the "Appearance" section of the README.txt in the Drupal root directory for further information on theming."
 }
 
-\section{Theme structure and subtheming}
 
-\subsection{Creating your own theme}
+\section{Creating your own theme}
 
 To create a new theme navigate to your site \url{/themes} folder. For me this is the \url{C:\drupal_sites\bitingbugs\themes} folder. There we will create a new folder for our theme named \textbf{my\_new\_theme}. Inside the new folder we need a file to describe our theme. Drupal requires this file to be named: \textbf{[theme name].info.yml}. So in our case we create a file named \textbf{my\_new\_theme.info.yml}.
 
@@ -118,5 +117,18 @@ Next to the required keys you can also add some other properties:
 	\item[Libraries:] The libraries key can be used to add asset libraries — which can contain both CSS and JS assets — to all pages where the theme is active.
 	\item[Stylesheet­remove:] The stylesheets­remove key removes a link to a stylesheet added by another theme or module. The full path to CSS file should be provided (instead of just the filename), to accommodate cases where more than one file with the same name exists. In cases where a Drupal core asset is being removed (for example, a CSS file in jQuery UI) the full file path is needed. In cases where the file is part of a library that belongs to a module or theme, a token can be used. Note that when using the token it needs to be quoted because @ is a reserved indicator in YAML.
 	\item[Regions:] Regions are declared as children of the regions key. You are required to have a content region.
-
 \end{description}
+
+Although you only need a \url{.info.yml} file with the required keys to have a new Drupal theme, it will not be of much use. To have a basic functioning theme you should have the following \url{.info.yml} file:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/basic_info_yml}
+	\caption{A basic info.yml file.}
+	\label{fig:basic_info_yml}
+\end{figure}
+
+Aside from the \url{.info.yml} file you should also have the \url{html.html.twig} and \url{page.html.twig} template files. A template file defines the structure of a certain part of your Drupal site. They contain html and some logic. However the logic in these files should be limited and is reserved for the \textbf{[theme name].theme} file. You will learn more about template files later in this chapter.
+
+\section{Subtheming}
+
