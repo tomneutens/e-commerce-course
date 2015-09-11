@@ -1,0 +1,57 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{What's in the course}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{What's a CMS}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{What's Drupal}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Drupal 8}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Review exercises}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Tools installation}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Acquia Dev Desktop}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.1}{Installation}{section.2.1}% 9
+\BOOKMARK [1][-]{section.2.2}{NetBeans}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.1}{installation}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.2}{configuration}{section.2.2}% 12
+\BOOKMARK [1][-]{section.2.3}{WinLess}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.4}{Drush}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.5}{GIT}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.5.1}{Installation}{section.2.5}% 16
+\BOOKMARK [0][-]{chapter.3}{Create your first Drupal site}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Acquia Dev Desktop}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.2}{Creating a new site}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.3}{review exercises}{chapter.3}% 20
+\BOOKMARK [0][-]{chapter.4}{The Drupal structure}{}% 21
+\BOOKMARK [1][-]{section.4.1}{Structural elements}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.2}{Bitingbugs example}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.2.1}{Change the site title and logo}{section.4.2}% 24
+\BOOKMARK [2][-]{subsection.4.2.2}{Removing the Search and Tools block}{section.4.2}% 25
+\BOOKMARK [2][-]{subsection.4.2.3}{Adding a Taxonomy}{section.4.2}% 26
+\BOOKMARK [2][-]{subsection.4.2.4}{Adding the Recipe content type}{section.4.2}% 27
+\BOOKMARK [1][-]{section.4.3}{review exercises}{chapter.4}% 28
+\BOOKMARK [0][-]{chapter.5}{Creating content}{}% 29
+\BOOKMARK [1][-]{section.5.1}{Creating a basic page}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.2}{Creating a recipe}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.3}{Review exercises}{chapter.5}% 32
+\BOOKMARK [0][-]{chapter.6}{Drupal Views}{}% 33
+\BOOKMARK [1][-]{section.6.1}{User management}{chapter.6}% 34
+\BOOKMARK [1][-]{section.6.2}{Views}{chapter.6}% 35
+\BOOKMARK [2][-]{subsection.6.2.1}{Settings}{section.6.2}% 36
+\BOOKMARK [2][-]{subsection.6.2.2}{Creating a view}{section.6.2}% 37
+\BOOKMARK [1][-]{section.6.3}{Review exercises}{chapter.6}% 38
+\BOOKMARK [0][-]{chapter.7}{Collaborating on a Drupal site}{}% 39
+\BOOKMARK [1][-]{section.7.1}{Creating an openshift account}{chapter.7}% 40
+\BOOKMARK [1][-]{section.7.2}{Installing the OpenShift client tools}{chapter.7}% 41
+\BOOKMARK [1][-]{section.7.3}{Putting your site on openshift}{chapter.7}% 42
+\BOOKMARK [1][-]{section.7.4}{Migrating your database to OpenShift}{chapter.7}% 43
+\BOOKMARK [0][-]{chapter.8}{Drupal commerce}{}% 44
+\BOOKMARK [1][-]{section.8.1}{Installing the Commerce module\(s\)}{chapter.8}% 45
+\BOOKMARK [1][-]{section.8.2}{Adding a webstore to bitingbugs}{chapter.8}% 46
+\BOOKMARK [0][-]{chapter.9}{Introduction to php}{}% 47
+\BOOKMARK [1][-]{section.9.1}{PHP introduction}{chapter.9}% 48
+\BOOKMARK [0][-]{chapter.10}{Drupal theming}{}% 49
+\BOOKMARK [1][-]{section.10.1}{Theme basics}{chapter.10}% 50
+\BOOKMARK [2][-]{subsection.10.1.1}{Changing the theme settings}{section.10.1}% 51
+\BOOKMARK [2][-]{subsection.10.1.2}{Installing a new theme}{section.10.1}% 52
+\BOOKMARK [1][-]{section.10.2}{Creating your own theme}{chapter.10}% 53
+\BOOKMARK [1][-]{section.10.3}{Subtheming}{chapter.10}% 54
+\BOOKMARK [2][-]{subsection.10.3.1}{How to create a subtheme}{section.10.3}% 55
+\BOOKMARK [2][-]{subsection.10.3.2}{Creating a subtheme in practice}{section.10.3}% 56
+\BOOKMARK [2][-]{subsection.10.3.3}{Default regions}{section.10.3}% 57

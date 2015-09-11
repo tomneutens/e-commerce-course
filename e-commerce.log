@@ -1,0 +1,1323 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.19)  11 SEP 2015 14:00
+entering extended mode
+**e-commerce.tex
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\e-commerce.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks14
+\thm@bodyfont=\toks15
+\thm@headfont=\toks16
+\thm@notefont=\toks17
+\thm@headpunct=\toks18
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks19
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks21
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks22
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks23
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+\lst@mode=\count100
+\lst@gtempboxa=\box28
+\lst@token=\toks26
+\lst@length=\count101
+\lst@currlwidth=\dimen112
+\lst@column=\count102
+\lst@pos=\count103
+\lst@lostspace=\dimen113
+\lst@width=\dimen114
+\lst@newlines=\count104
+\lst@lineno=\count105
+\lst@maxwidth=\dimen115
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count106
+\lst@skipnumbers=\count107
+\lst@framebox=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count108
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count109
+\float@exts=\toks27
+\float@box=\box30
+\@float@everytoks=\toks28
+\@floatcapt=\box31
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
+File: lstlang2.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\e-commerce.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+\c@lstlisting=\count110
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen118
+\scratchbox=\box32
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen119
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks30
+) ("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_1.tex"
+Chapter 1.
+[1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<images/chapter1/cms-systems.png, id=7, 432.61626pt x 286.06876pt>
+File: images/chapter1/cms-systems.png Graphic file (type png)
+
+<use images/chapter1/cms-systems.png>
+Package pdftex.def Info: images/chapter1/cms-systems.png used on input line 25.
+
+(pdftex.def)             Requested size: 345.0pt x 228.13943pt.
+ [2 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter1
+/cms-systems.png>]
+<images/chapter1/drupal.jpg, id=14, 672.5125pt x 301.125pt>
+File: images/chapter1/drupal.jpg Graphic file (type jpg)
+
+<use images/chapter1/drupal.jpg>
+Package pdftex.def Info: images/chapter1/drupal.jpg used on input line 37.
+(pdftex.def)             Requested size: 345.0pt x 154.47688pt.
+)
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_2.tex"
+[3 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter1/
+drupal.jpg>]
+Chapter 2.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+
+<images/chapter2/dev_desktop_install_site_location.png, id=18, 560.0925pt x 397
+.485pt>
+File: images/chapter2/dev_desktop_install_site_location.png Graphic file (type 
+png)
+ <use images/chapter2/dev_desktop_install_site_location.png>
+Package pdftex.def Info: images/chapter2/dev_desktop_install_site_location.png 
+used on input line 16.
+(pdftex.def)             Requested size: 345.0pt x 244.84909pt.
+ [4
+
+]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 37.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <10> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 37.
+ [5 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter2
+/dev_desktop_install_site_location.png>]
+<images/chapter2/file_extensions_configuration.png, id=29, 576.65437pt x 505.89
+pt>
+File: images/chapter2/file_extensions_configuration.png Graphic file (type png)
+
+ <use images/chapter2/file_extensions_configuration.png>
+Package pdftex.def Info: images/chapter2/file_extensions_configuration.png used
+ on input line 56.
+(pdftex.def)             Requested size: 345.0pt x 302.67177pt.
+ [6 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter2
+/file_extensions_configuration.png>]
+<images/chapter2/winless_interface.png, id=34, 651.18282pt x 406.51875pt>
+File: images/chapter2/winless_interface.png Graphic file (type png)
+
+<use images/chapter2/winless_interface.png>
+Package pdftex.def Info: images/chapter2/winless_interface.png used on input li
+ne 69.
+(pdftex.def)             Requested size: 345.0pt x 215.37947pt.
+ [7 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter2
+/winless_interface.png>]
+Overfull \hbox (2.03526pt too wide) in paragraph at lines 88--89
+[]\OT1/cmr/m/n/10 Configure the line end-ings as \OT1/cmr/bx/n/10 Check-out Win
+dows-style, com-mit Unix-
+ []
+
+) ("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_3.tex"
+[8]
+Chapter 3.
+
+<images/chapter3/acquia_dev_desktop_interface.png, id=43, 635.37375pt x 471.260
+62pt>
+File: images/chapter3/acquia_dev_desktop_interface.png Graphic file (type png)
+ <use images/chapter3/acquia_dev_desktop_interface.png>
+Package pdftex.def Info: images/chapter3/acquia_dev_desktop_interface.png used 
+on input line 19.
+(pdftex.def)             Requested size: 345.0pt x 255.89354pt.
+ [9
+
+]
+<images/chapter3/acquia_dev_desktop_new_site_context_menu.png, id=47, 693.34032
+pt x 124.96687pt>
+File: images/chapter3/acquia_dev_desktop_new_site_context_menu.png Graphic file
+ (type png)
+
+<use images/chapter3/acquia_dev_desktop_new_site_context_menu.png>
+Package pdftex.def Info: images/chapter3/acquia_dev_desktop_new_site_context_me
+nu.png used on input line 30.
+(pdftex.def)             Requested size: 345.0pt x 62.1839pt.
+
+<images/chapter3/acquia_dev_desktop_druppal_installations.png, id=48, 617.30624
+pt x 376.40625pt>
+File: images/chapter3/acquia_dev_desktop_druppal_installations.png Graphic file
+ (type png)
+
+<use images/chapter3/acquia_dev_desktop_druppal_installations.png>
+Package pdftex.def Info: images/chapter3/acquia_dev_desktop_druppal_installatio
+ns.png used on input line 39.
+(pdftex.def)             Requested size: 345.0pt x 210.37253pt.
+ [10 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+3/acquia_dev_desktop_interface.png> <C:/Users/tneu287/Documents/vakken/E-commer
+ce/lecture notes/images/chapter3/acquia_dev_desktop_new_site_context_menu.png>]
+
+<images/chapter3/acquia_dev_desktop_new_site_configuration.png, id=53, 453.1931
+3pt x 209.28188pt>
+File: images/chapter3/acquia_dev_desktop_new_site_configuration.png Graphic fil
+e (type png)
+
+<use images/chapter3/acquia_dev_desktop_new_site_configuration.png>
+Package pdftex.def Info: images/chapter3/acquia_dev_desktop_new_site_configurat
+ion.png used on input line 48.
+(pdftex.def)             Requested size: 345.0pt x 159.31772pt.
+
+<images/chapter3/drupal_site_install_p1.png, id=54, 1027.58907pt x 501.37312pt>
+File: images/chapter3/drupal_site_install_p1.png Graphic file (type png)
+<use images/chapter3/drupal_site_install_p1.png>
+Package pdftex.def Info: images/chapter3/drupal_site_install_p1.png used on inp
+ut line 57.
+(pdftex.def)             Requested size: 345.0pt x 168.33015pt.
+ [11 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+3/acquia_dev_desktop_druppal_installations.png> <C:/Users/tneu287/Documents/vak
+ken/E-commerce/lecture notes/images/chapter3/acquia_dev_desktop_new_site_config
+uration.png>]
+<images/chapter3/drupal_site_install_p2.png, id=60, 1026.83624pt x 500.62032pt>
+File: images/chapter3/drupal_site_install_p2.png Graphic file (type png)
+<use images/chapter3/drupal_site_install_p2.png>
+Package pdftex.def Info: images/chapter3/drupal_site_install_p2.png used on inp
+ut line 66.
+(pdftex.def)             Requested size: 345.0pt x 168.19963pt.
+ [12 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+3/drupal_site_install_p1.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lec
+ture notes/images/chapter3/drupal_site_install_p2.png>]
+<images/chapter3/drupal_site_install_p3.png, id=66, 1013.28563pt x 486.31688pt>
+File: images/chapter3/drupal_site_install_p3.png Graphic file (type png)
+<use images/chapter3/drupal_site_install_p3.png>
+Package pdftex.def Info: images/chapter3/drupal_site_install_p3.png used on inp
+ut line 88.
+(pdftex.def)             Requested size: 345.0pt x 165.57558pt.
+
+<images/chapter3/drupal_site_install_p4.png, id=67, 1015.54407pt x 459.96844pt>
+File: images/chapter3/drupal_site_install_p4.png Graphic file (type png)
+<use images/chapter3/drupal_site_install_p4.png>
+Package pdftex.def Info: images/chapter3/drupal_site_install_p4.png used on inp
+ut line 94.
+(pdftex.def)             Requested size: 345.0pt x 156.26086pt.
+ [13 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+3/drupal_site_install_p3.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lec
+ture notes/images/chapter3/drupal_site_install_p4.png>]
+<images/chapter3/first_drupal_site.png, id=74, 1027.58907pt x 502.87875pt>
+File: images/chapter3/first_drupal_site.png Graphic file (type png)
+
+<use images/chapter3/first_drupal_site.png>
+Package pdftex.def Info: images/chapter3/first_drupal_site.png used on input li
+ne 104.
+(pdftex.def)             Requested size: 345.0pt x 168.83566pt.
+)
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_4.tex"
+[14 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter3
+/first_drupal_site.png>]
+Chapter 4.
+<images/chapter4/structural_elements.png, id=79, 478.78876pt x 427.5975pt>
+File: images/chapter4/structural_elements.png Graphic file (type png)
+
+<use images/chapter4/structural_elements.png>
+Package pdftex.def Info: images/chapter4/structural_elements.png used on input 
+line 9.
+(pdftex.def)             Requested size: 345.0pt x 308.11137pt.
+ [15
+
+]
+<images/chapter4/block_layout.png, id=83, 1014.79124pt x 502.12593pt>
+File: images/chapter4/block_layout.png Graphic file (type png)
+
+<use images/chapter4/block_layout.png>
+Package pdftex.def Info: images/chapter4/block_layout.png used on input line 22
+.
+(pdftex.def)             Requested size: 345.0pt x 170.70523pt.
+ [16 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/structural_elements.png>]
+<images/chapter4/region_demo.png, id=88, 1015.54407pt x 502.12593pt>
+File: images/chapter4/region_demo.png Graphic file (type png)
+
+<use images/chapter4/region_demo.png>
+Package pdftex.def Info: images/chapter4/region_demo.png used on input line 31.
+
+(pdftex.def)             Requested size: 345.0pt x 170.58264pt.
+ [17 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/block_layout.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes
+/images/chapter4/region_demo.png>]
+<images/chapter4/content_types.png, id=94, 1026.83624pt x 238.64156pt>
+File: images/chapter4/content_types.png Graphic file (type png)
+
+<use images/chapter4/content_types.png>
+Package pdftex.def Info: images/chapter4/content_types.png used on input line 4
+6.
+(pdftex.def)             Requested size: 345.0pt x 80.17937pt.
+
+<images/chapter4/content_type_fields.png, id=95, 1026.08344pt x 447.92343pt>
+File: images/chapter4/content_type_fields.png Graphic file (type png)
+
+<use images/chapter4/content_type_fields.png>
+Package pdftex.def Info: images/chapter4/content_type_fields.png used on input 
+line 55.
+(pdftex.def)             Requested size: 345.0pt x 150.60376pt.
+ [18 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/content_types.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture note
+s/images/chapter4/content_type_fields.png>] <images/chapter4/viewmodes.png, id=
+101, 1014.03844pt x 447.92343pt>
+File: images/chapter4/viewmodes.png Graphic file (type png)
+
+<use images/chapter4/viewmodes.png>
+Package pdftex.def Info: images/chapter4/viewmodes.png used on input line 67.
+(pdftex.def)             Requested size: 345.0pt x 152.39447pt.
+
+<images/chapter4/display_types.png, id=102, 1013.28563pt x 226.59656pt>
+File: images/chapter4/display_types.png Graphic file (type png)
+
+<use images/chapter4/display_types.png>
+Package pdftex.def Info: images/chapter4/display_types.png used on input line 7
+6.
+(pdftex.def)             Requested size: 345.0pt x 77.14899pt.
+
+<images/chapter4/custom_display_settings_dropdown.png, id=103, 1011.78pt x 207.
+77625pt>
+File: images/chapter4/custom_display_settings_dropdown.png Graphic file (type p
+ng)
+ <use images/chapter4/custom_display_settings_dropdown.png>
+Package pdftex.def Info: images/chapter4/custom_display_settings_dropdown.png u
+sed on input line 86.
+(pdftex.def)             Requested size: 345.0pt x 70.84906pt.
+ [19 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/viewmodes.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/im
+ages/chapter4/display_types.png>]
+<images/chapter4/bitingbugs_change_title.png, id=110, 1013.28563pt x 298.86656p
+t>
+File: images/chapter4/bitingbugs_change_title.png Graphic file (type png)
+ <use images/chapter4/bitingbugs_change_title.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_change_title.png used on in
+put line 109.
+(pdftex.def)             Requested size: 345.0pt x 101.75464pt.
+ [20 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/custom_display_settings_dropdown.png>]
+<images/chapter4/bitingbugs_logo_and_title_changed.png, id=115, 1015.54407pt x 
+501.37312pt>
+File: images/chapter4/bitingbugs_logo_and_title_changed.png Graphic file (type 
+png)
+ <use images/chapter4/bitingbugs_logo_and_title_changed.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_logo_and_title_changed.png 
+used on input line 120.
+(pdftex.def)             Requested size: 345.0pt x 170.32689pt.
+
+<images/chapter4/bitingbugs_remove_search_block.png, id=116, 1028.34187pt x 502
+.12593pt>
+File: images/chapter4/bitingbugs_remove_search_block.png Graphic file (type png
+)
+ <use images/chapter4/bitingbugs_remove_search_block.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_remove_search_block.png use
+d on input line 131.
+(pdftex.def)             Requested size: 345.0pt x 168.46033pt.
+ [21 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/bitingbugs_change_title.png> <C:/Users/tneu287/Documents/vakken/E-commerce/le
+cture notes/images/chapter4/bitingbugs_logo_and_title_changed.png>]
+<images/chapter4/bitingbugs_add_dish_types.png, id=122, 1027.58907pt x 337.26pt
+>
+File: images/chapter4/bitingbugs_add_dish_types.png Graphic file (type png)
+ <use images/chapter4/bitingbugs_add_dish_types.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_add_dish_types.png used on 
+input line 149.
+(pdftex.def)             Requested size: 345.0pt x 113.2311pt.
+ [22 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/bitingbugs_remove_search_block.png> <C:/Users/tneu287/Documents/vakken/E-comm
+erce/lecture notes/images/chapter4/bitingbugs_add_dish_types.png>]
+<images/chapter4/bitingbugs_add_vocabulary_terms.png, id=127, 1014.03844pt x 44
+4.91219pt>
+File: images/chapter4/bitingbugs_add_vocabulary_terms.png Graphic file (type pn
+g)
+ <use images/chapter4/bitingbugs_add_vocabulary_terms.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_add_vocabulary_terms.png us
+ed on input line 171.
+(pdftex.def)             Requested size: 345.0pt x 151.36996pt.
+
+<images/chapter4/bitingbugs_dish_types.png, id=128, 1001.99344pt x 371.88937pt>
+File: images/chapter4/bitingbugs_dish_types.png Graphic file (type png)
+<use images/chapter4/bitingbugs_dish_types.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_dish_types.png used on inpu
+t line 180.
+(pdftex.def)             Requested size: 345.0pt x 128.04662pt.
+ [23 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/bitingbugs_add_vocabulary_terms.png>]
+<images/chapter4/bitingbugs_manage_recipe_fields.png, id=133, 1026.83624pt x 33
+1.2375pt>
+File: images/chapter4/bitingbugs_manage_recipe_fields.png Graphic file (type pn
+g)
+ <use images/chapter4/bitingbugs_manage_recipe_fields.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_manage_recipe_fields.png us
+ed on input line 201.
+(pdftex.def)             Requested size: 345.0pt x 111.28998pt.
+ [24 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+4/bitingbugs_dish_types.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lect
+ure notes/images/chapter4/bitingbugs_manage_recipe_fields.png>]
+<images/chapter4/bitingbugs_recipe_fields.png, id=139, 1004.25188pt x 366.61969
+pt>
+File: images/chapter4/bitingbugs_recipe_fields.png Graphic file (type png)
+ <use images/chapter4/bitingbugs_recipe_fields.png>
+Package pdftex.def Info: images/chapter4/bitingbugs_recipe_fields.png used on i
+nput line 221.
+(pdftex.def)             Requested size: 345.0pt x 125.94688pt.
+)
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_5.tex"
+[25 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter4
+/bitingbugs_recipe_fields.png>]
+Chapter 5.
+
+<images/chapter5/add_content_content_types.png, id=145, 481.8pt x 264.23718pt>
+File: images/chapter5/add_content_content_types.png Graphic file (type png)
+
+<use images/chapter5/add_content_content_types.png>
+Package pdftex.def Info: images/chapter5/add_content_content_types.png used on 
+input line 10.
+(pdftex.def)             Requested size: 345.0pt x 189.2144pt.
+ [26
+
+ <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter5/ad
+d_content_content_types.png>]
+<images/chapter5/bitingbugs_publishing_options_basic_page.png, id=150, 349.305p
+t x 312.41719pt>
+File: images/chapter5/bitingbugs_publishing_options_basic_page.png Graphic file
+ (type png)
+
+<use images/chapter5/bitingbugs_publishing_options_basic_page.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_publishing_options_basic_pa
+ge.png used on input line 26.
+(pdftex.def)             Requested size: 345.0pt x 308.58366pt.
+
+<images/chapter5/bitingbugs_create_recipe_problem.png, id=151, 1011.78pt x 438.
+8897pt>
+File: images/chapter5/bitingbugs_create_recipe_problem.png Graphic file (type p
+ng)
+ <use images/chapter5/bitingbugs_create_recipe_problem.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_create_recipe_problem.png u
+sed on input line 39.
+(pdftex.def)             Requested size: 345.0pt x 149.65582pt.
+ [27 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+5/bitingbugs_publishing_options_basic_page.png>]
+<images/chapter5/bitingbugs_change_edit_display_recipe.png, id=156, 486.31688pt
+ x 401.24907pt>
+File: images/chapter5/bitingbugs_change_edit_display_recipe.png Graphic file (t
+ype png)
+
+<use images/chapter5/bitingbugs_change_edit_display_recipe.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_change_edit_display_recipe.
+png used on input line 46.
+(pdftex.def)             Requested size: 345.0pt x 284.65004pt.
+ [28 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+5/bitingbugs_create_recipe_problem.png> <C:/Users/tneu287/Documents/vakken/E-co
+mmerce/lecture notes/images/chapter5/bitingbugs_change_edit_display_recipe.png>
+]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+<images/chapter5/bitingbugs_roasted_crickets_recipe.png, id=162, 727.21687pt x 
+456.20438pt>
+File: images/chapter5/bitingbugs_roasted_crickets_recipe.png Graphic file (type
+ png)
+ <use images/chapter5/bitingbugs_roasted_crickets_recipe.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_roasted_crickets_recipe.png
+ used on input line 67.
+(pdftex.def)             Requested size: 345.0pt x 216.4348pt.
+
+<images/chapter5/bitingbugs_recipe_manage_display.png, id=163, 991.45406pt x 38
+6.19281pt>
+File: images/chapter5/bitingbugs_recipe_manage_display.png Graphic file (type p
+ng)
+ <use images/chapter5/bitingbugs_recipe_manage_display.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_recipe_manage_display.png u
+sed on input line 76.
+(pdftex.def)             Requested size: 345.0pt x 134.38576pt.
+ [29 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+5/bitingbugs_roasted_crickets_recipe.png>]
+<images/chapter5/bitingbugs_roasted_crickets_recipe_updated.png, id=168, 742.27
+313pt x 441.14813pt>
+File: images/chapter5/bitingbugs_roasted_crickets_recipe_updated.png Graphic fi
+le (type png)
+
+<use images/chapter5/bitingbugs_roasted_crickets_recipe_updated.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_roasted_crickets_recipe_upd
+ated.png used on input line 85.
+(pdftex.def)             Requested size: 345.0pt x 205.04425pt.
+
+<images/chapter5/bitingbugs_recipe_homepage_summary.png, id=169, 1014.79124pt x
+ 307.1475pt>
+File: images/chapter5/bitingbugs_recipe_homepage_summary.png Graphic file (type
+ png)
+ <use images/chapter5/bitingbugs_recipe_homepage_summary.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_recipe_homepage_summary.png
+ used on input line 99.
+(pdftex.def)             Requested size: 345.0pt x 104.41939pt.
+
+[30 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter5
+/bitingbugs_recipe_manage_display.png> <C:/Users/tneu287/Documents/vakken/E-com
+merce/lecture notes/images/chapter5/bitingbugs_roasted_crickets_recipe_updated.
+png>]
+<images/chapter5/bitingbugs_recipe_homepage_summary_updated.png, id=175, 1011.0
+2719pt x 335.75438pt>
+File: images/chapter5/bitingbugs_recipe_homepage_summary_updated.png Graphic fi
+le (type png)
+
+<use images/chapter5/bitingbugs_recipe_homepage_summary_updated.png>
+Package pdftex.def Info: images/chapter5/bitingbugs_recipe_homepage_summary_upd
+ated.png used on input line 108.
+(pdftex.def)             Requested size: 345.0pt x 114.56995pt.
+ [31 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+5/bitingbugs_recipe_homepage_summary.png> <C:/Users/tneu287/Documents/vakken/E-
+commerce/lecture notes/images/chapter5/bitingbugs_recipe_homepage_summary_updat
+ed.png>])
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_6.tex"
+[32]
+Chapter 6.
+<images/chapter6/people_menu.png, id=185, 1028.34187pt x 76.03406pt>
+File: images/chapter6/people_menu.png Graphic file (type png)
+
+<use images/chapter6/people_menu.png>
+Package pdftex.def Info: images/chapter6/people_menu.png used on input line 9.
+(pdftex.def)             Requested size: 345.0pt x 25.50897pt.
+
+<images/chapter6/people_page.png, id=186, 1014.79124pt x 440.39531pt>
+File: images/chapter6/people_page.png Graphic file (type png)
+
+<use images/chapter6/people_page.png>
+Package pdftex.def Info: images/chapter6/people_page.png used on input line 17.
+
+(pdftex.def)             Requested size: 345.0pt x 149.71898pt.
+ [33
+
+ <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter6/pe
+ople_menu.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/imag
+es/chapter6/people_page.png>]
+<images/chapter6/permissions_page.png, id=191, 1010.27437pt x 424.58624pt>
+File: images/chapter6/permissions_page.png Graphic file (type png)
+
+<use images/chapter6/permissions_page.png>
+Package pdftex.def Info: images/chapter6/permissions_page.png used on input lin
+e 29.
+(pdftex.def)             Requested size: 345.0pt x 144.99231pt.
+
+<images/chapter6/roles_page.png, id=192, 1014.79124pt x 422.32782pt>
+File: images/chapter6/roles_page.png Graphic file (type png)
+
+<use images/chapter6/roles_page.png>
+Package pdftex.def Info: images/chapter6/roles_page.png used on input line 38.
+(pdftex.def)             Requested size: 345.0pt x 143.57666pt.
+
+<images/chapter6/added_chef_role.png, id=193, 606.76688pt x 230.36063pt>
+File: images/chapter6/added_chef_role.png Graphic file (type png)
+
+<use images/chapter6/added_chef_role.png>
+Package pdftex.def Info: images/chapter6/added_chef_role.png used on input line
+ 49.
+(pdftex.def)             Requested size: 345.0pt x 130.98001pt.
+ [34 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+6/permissions_page.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture n
+otes/images/chapter6/roles_page.png>]
+<images/chapter6/edit_role_permissions.png, id=199, 1007.26312pt x 416.30531pt>
+File: images/chapter6/edit_role_permissions.png Graphic file (type png)
+<use images/chapter6/edit_role_permissions.png>
+Package pdftex.def Info: images/chapter6/edit_role_permissions.png used on inpu
+t line 58.
+(pdftex.def)             Requested size: 345.0pt x 142.59006pt.
+ [35 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+6/added_chef_role.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture no
+tes/images/chapter6/edit_role_permissions.png>]
+<images/chapter6/chef_menu.png, id=205, 288.3272pt x 59.47218pt>
+File: images/chapter6/chef_menu.png Graphic file (type png)
+
+<use images/chapter6/chef_menu.png>
+Package pdftex.def Info: images/chapter6/chef_menu.png used on input line 82.
+(pdftex.def)             Requested size: 345.0pt x 71.1648pt.
+
+<images/chapter6/views_settings.png, id=206, 305.64188pt x 201.75375pt>
+File: images/chapter6/views_settings.png Graphic file (type png)
+
+<use images/chapter6/views_settings.png>
+Package pdftex.def Info: images/chapter6/views_settings.png used on input line 
+102.
+(pdftex.def)             Requested size: 345.0pt x 227.7451pt.
+ [36 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+6/chef_menu.png>]
+<images/chapter6/views_settings_page.png, id=211, 698.61pt x 458.46281pt>
+File: images/chapter6/views_settings_page.png Graphic file (type png)
+
+<use images/chapter6/views_settings_page.png>
+Package pdftex.def Info: images/chapter6/views_settings_page.png used on input 
+line 110.
+(pdftex.def)             Requested size: 345.0pt x 226.40462pt.
+ [37 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+6/views_settings.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture not
+es/images/chapter6/views_settings_page.png>]
+
+LaTeX Warning: Reference `fig:new_view_settings' on page 38 undefined on input 
+line 133.
+
+) ("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_7.tex"
+[38]
+Chapter 7.
+[39
+
+]
+<images/chapter7/openshift_applications_overview.png, id=222, 1013.28563pt x 44
+3.40656pt>
+File: images/chapter7/openshift_applications_overview.png Graphic file (type pn
+g)
+ <use images/chapter7/openshift_applications_overview.png>
+Package pdftex.def Info: images/chapter7/openshift_applications_overview.png us
+ed on input line 33.
+(pdftex.def)             Requested size: 345.0pt x 150.96597pt.
+
+Overfull \hbox (13.27524pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 low-ing link ($\OT1/cmtt/m/n/10 https : / / developers . opensh
+ift . com / en / managing-[]client-[]tools .$
+ []
+
+[40 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter7
+/openshift_applications_overview.png>]
+<images/chapter7/git_contextual_menu.png, id=227, 1028.34187pt x 548.0475pt>
+File: images/chapter7/git_contextual_menu.png Graphic file (type png)
+
+<use images/chapter7/git_contextual_menu.png>
+Package pdftex.def Info: images/chapter7/git_contextual_menu.png used on input 
+line 50.
+(pdftex.def)             Requested size: 345.0pt x 183.86673pt.
+
+<images/chapter7/openshift_applications_page.png, id=228, 1028.34187pt x 482.55
+281pt>
+File: images/chapter7/openshift_applications_page.png Graphic file (type png)
+ <use images/chapter7/openshift_applications_page.png>
+Package pdftex.def Info: images/chapter7/openshift_applications_page.png used o
+n input line 59.
+(pdftex.def)             Requested size: 345.0pt x 161.89365pt.
+ [41 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+7/git_contextual_menu.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lectur
+e notes/images/chapter7/openshift_applications_page.png>]
+<images/chapter7/local_codebase.png, id=232, 1028.34187pt x 554.07pt>
+File: images/chapter7/local_codebase.png Graphic file (type png)
+
+<use images/chapter7/local_codebase.png>
+Package pdftex.def Info: images/chapter7/local_codebase.png used on input line 
+69.
+(pdftex.def)             Requested size: 345.0pt x 185.88725pt.
+
+<images/chapter7/local_openshift_repo.png, id=233, 1028.34187pt x 554.07pt>
+File: images/chapter7/local_openshift_repo.png Graphic file (type png)
+
+<use images/chapter7/local_openshift_repo.png>
+Package pdftex.def Info: images/chapter7/local_openshift_repo.png used on input
+ line 77.
+(pdftex.def)             Requested size: 345.0pt x 185.88725pt.
+ [42 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+7/local_codebase.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture not
+es/images/chapter7/local_openshift_repo.png>]
+<images/chapter7/git_add_command.png, id=239, 503.63156pt x 540.51938pt>
+File: images/chapter7/git_add_command.png Graphic file (type png)
+
+<use images/chapter7/git_add_command.png>
+Package pdftex.def Info: images/chapter7/git_add_command.png used on input line
+ 86.
+(pdftex.def)             Requested size: 345.0pt x 370.27003pt.
+
+<images/chapter7/git_status_command.png, id=240, 503.63156pt x 540.51938pt>
+File: images/chapter7/git_status_command.png Graphic file (type png)
+
+<use images/chapter7/git_status_command.png>
+Package pdftex.def Info: images/chapter7/git_status_command.png used on input l
+ine 95.
+(pdftex.def)             Requested size: 345.0pt x 370.27003pt.
+ [43 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+7/git_add_command.png>] [44 <C:/Users/tneu287/Documents/vakken/E-commerce/lectu
+re notes/images/chapter7/git_status_command.png>]
+<images/chapter7/openshift_phpmyadmin_link.png, id=250, 877.77937pt x 257.46187
+pt>
+File: images/chapter7/openshift_phpmyadmin_link.png Graphic file (type png)
+ <use images/chapter7/openshift_phpmyadmin_link.png>
+Package pdftex.def Info: images/chapter7/openshift_phpmyadmin_link.png used on 
+input line 108.
+(pdftex.def)             Requested size: 345.0pt x 101.1915pt.
+)
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_8.tex"
+[45 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter7
+/openshift_phpmyadmin_link.png>]
+Chapter 8.
+<images/chapter8/console_window_button.png, id=254, 638.385pt x 474.27188pt>
+File: images/chapter8/console_window_button.png Graphic file (type png)
+
+<use images/chapter8/console_window_button.png>
+Package pdftex.def Info: images/chapter8/console_window_button.png used on inpu
+t line 10.
+(pdftex.def)             Requested size: 345.0pt x 256.30563pt.
+ [46
+
+]
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+Overfull \hbox (46.22882pt too wide) in paragraph at lines 18--19
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (74.57874pt too wide) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+<images/chapter8/drush_install_composer_manager.png, id=258, 509.65407pt x 194.
+22563pt>
+File: images/chapter8/drush_install_composer_manager.png Graphic file (type png
+)
+ <use images/chapter8/drush_install_composer_manager.png>
+Package pdftex.def Info: images/chapter8/drush_install_composer_manager.png use
+d on input line 24.
+(pdftex.def)             Requested size: 345.0pt x 131.4819pt.
+ [47 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+8/console_window_button.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lect
+ure notes/images/chapter8/drush_install_composer_manager.png>]
+Overfull \hbox (46.22882pt too wide) in paragraph at lines 46--47
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+<images/chapter8/enable_drupal_commerce_module.png, id=264, 1011.78pt x 445.665
+pt>
+File: images/chapter8/enable_drupal_commerce_module.png Graphic file (type png)
+
+ <use images/chapter8/enable_drupal_commerce_module.png>
+Package pdftex.def Info: images/chapter8/enable_drupal_commerce_module.png used
+ on input line 54.
+(pdftex.def)             Requested size: 345.0pt x 151.96611pt.
+
+<images/chapter8/commerce_in_admin_menu.png, id=265, 679.78969pt x 29.35968pt>
+File: images/chapter8/commerce_in_admin_menu.png Graphic file (type png)
+
+<use images/chapter8/commerce_in_admin_menu.png>
+Package pdftex.def Info: images/chapter8/commerce_in_admin_menu.png used on inp
+ut line 63.
+(pdftex.def)             Requested size: 345.0pt x 14.90019pt.
+)
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_9.tex"
+[48 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter8
+/enable_drupal_commerce_module.png> <C:/Users/tneu287/Documents/vakken/E-commer
+ce/lecture notes/images/chapter8/commerce_in_admin_menu.png>]
+Chapter 9.
+) ("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\Chapter_10.tex"
+[49
+
+]
+Chapter 10.
+
+<images/chapter10/theme_settings_enabled_themes.png, id=276, 498.36188pt x 259.
+7203pt>
+File: images/chapter10/theme_settings_enabled_themes.png Graphic file (type png
+)
+ <use images/chapter10/theme_settings_enabled_themes.png>
+Package pdftex.def Info: images/chapter10/theme_settings_enabled_themes.png use
+d on input line 13.
+(pdftex.def)             Requested size: 345.0pt x 179.80165pt.
+ [50
+
+ <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter10/t
+heme_settings_enabled_themes.png>]
+<images/chapter10/bartik_color_settings.png, id=280, 514.92375pt x 499.8675pt>
+File: images/chapter10/bartik_color_settings.png Graphic file (type png)
+
+<use images/chapter10/bartik_color_settings.png>
+Package pdftex.def Info: images/chapter10/bartik_color_settings.png used on inp
+ut line 23.
+(pdftex.def)             Requested size: 345.0pt x 334.91711pt.
+
+<images/chapter10/install_new_theme_button.png, id=281, 550.30594pt x 329.73187
+pt>
+File: images/chapter10/install_new_theme_button.png Graphic file (type png)
+ <use images/chapter10/install_new_theme_button.png>
+Package pdftex.def Info: images/chapter10/install_new_theme_button.png used on 
+input line 36.
+(pdftex.def)             Requested size: 345.0pt x 206.72087pt.
+ [51 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/bartik_color_settings.png>]
+<images/chapter10/install_new_theme_page.png, id=285, 699.36281pt x 364.36125pt
+>
+File: images/chapter10/install_new_theme_page.png Graphic file (type png)
+ <use images/chapter10/install_new_theme_page.png>
+Package pdftex.def Info: images/chapter10/install_new_theme_page.png used on in
+put line 45.
+(pdftex.def)             Requested size: 345.0pt x 179.74503pt.
+ [52 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/install_new_theme_button.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+<images/chapter10/theme_install_location.png, id=289, 1028.34187pt x 546.54187p
+t>
+File: images/chapter10/theme_install_location.png Graphic file (type png)
+ <use images/chapter10/theme_install_location.png>
+Package pdftex.def Info: images/chapter10/theme_install_location.png used on in
+put line 56.
+(pdftex.def)             Requested size: 345.0pt x 183.3616pt.
+ [53 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/install_new_theme_page.png> <C:/Users/tneu287/Documents/vakken/E-commerce/le
+cture notes/images/chapter10/theme_install_location.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+Missing character: There is no ¬ in font cmti10!
+Missing character: There is no ≠ in font cmti10!
+
+Overfull \hbox (12.77684pt too wide) in paragraph at lines 84--85
+\OT1/cmr/bx/n/10 name].info.yml\OT1/cmr/m/n/10 . So in our case we cre-ate a fi
+le named \OT1/cmr/bx/n/10 my[]new[]theme.info.yml\OT1/cmr/m/n/10 . 
+ []
+
+<images/chapter10/yaml_file_example.png, id=294, 313.9228pt x 204.01219pt>
+File: images/chapter10/yaml_file_example.png Graphic file (type png)
+
+<use images/chapter10/yaml_file_example.png>
+Package pdftex.def Info: images/chapter10/yaml_file_example.png used on input l
+ine 90.
+(pdftex.def)             Requested size: 345.0pt x 224.21797pt.
+ [54]
+<images/chapter10/info_yml_req_keys.png, id=299, 276.28218pt x 67.0003pt>
+File: images/chapter10/info_yml_req_keys.png Graphic file (type png)
+
+<use images/chapter10/info_yml_req_keys.png>
+Package pdftex.def Info: images/chapter10/info_yml_req_keys.png used on input l
+ine 105.
+(pdftex.def)             Requested size: 345.0pt x 83.66426pt.
+ [55 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/yaml_file_example.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture
+ notes/images/chapter10/info_yml_req_keys.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no î in font cmr10!
+Missing character: There is no ¬ in font cmbx10!
+Missing character: There is no ≠ in font cmbx10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+
+<images/chapter10/basic_info_yml.png, id=306, 312.41719pt x 186.6975pt>
+File: images/chapter10/basic_info_yml.png Graphic file (type png)
+
+<use images/chapter10/basic_info_yml.png>
+Package pdftex.def Info: images/chapter10/basic_info_yml.png used on input line
+ 126.
+(pdftex.def)             Requested size: 345.0pt x 206.17407pt.
+ [56]
+<images/chapter10/subtheme_declaration.png, id=310, 322.20375pt x 174.6525pt>
+File: images/chapter10/subtheme_declaration.png Graphic file (type png)
+
+<use images/chapter10/subtheme_declaration.png>
+Package pdftex.def Info: images/chapter10/subtheme_declaration.png used on inpu
+t line 144.
+(pdftex.def)             Requested size: 345.0pt x 187.01756pt.
+ [57 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/basic_info_yml.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+<images/chapter10/bitingbugs_subtheme.png, id=315, 642.14906pt x 439.6425pt>
+File: images/chapter10/bitingbugs_subtheme.png Graphic file (type png)
+
+<use images/chapter10/bitingbugs_subtheme.png>
+Package pdftex.def Info: images/chapter10/bitingbugs_subtheme.png used on input
+ line 159.
+(pdftex.def)             Requested size: 345.0pt x 236.2093pt.
+ [58 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/subtheme_declaration.png>]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+
+<images/chapter10/bitingbugs_info_file.png, id=319, 642.14906pt x 203.25937pt>
+File: images/chapter10/bitingbugs_info_file.png Graphic file (type png)
+
+<use images/chapter10/bitingbugs_info_file.png>
+Package pdftex.def Info: images/chapter10/bitingbugs_info_file.png used on inpu
+t line 168.
+(pdftex.def)             Requested size: 345.0pt x 109.20634pt.
+
+<images/chapter10/bitingbugs_info_file_content.png, id=320, 465.23813pt x 136.2
+5906pt>
+File: images/chapter10/bitingbugs_info_file_content.png Graphic file (type png)
+
+ <use images/chapter10/bitingbugs_info_file_content.png>
+Package pdftex.def Info: images/chapter10/bitingbugs_info_file_content.png used
+ on input line 177.
+(pdftex.def)             Requested size: 345.0pt x 101.04634pt.
+ [59 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/bitingbugs_subtheme.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lectu
+re notes/images/chapter10/bitingbugs_info_file.png>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+<images/chapter10/bitingbugs_info_regions.png, id=326, 462.97969pt x 73.77562pt
+>
+File: images/chapter10/bitingbugs_info_regions.png Graphic file (type png)
+ <use images/chapter10/bitingbugs_info_regions.png>
+Package pdftex.def Info: images/chapter10/bitingbugs_info_regions.png used on i
+nput line 199.
+(pdftex.def)             Requested size: 345.0pt x 54.97583pt.
+
+Overfull \hbox (1.57477pt too wide) in paragraph at lines 204--205
+\OT1/cmr/m/n/10 gin with a let-ter. When ref-er-enc-ing re-gions the key from y
+our bit-ing-bugs.info.yml
+ []
+
+[60 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter1
+0/bitingbugs_info_file_content.png> <C:/Users/tneu287/Documents/vakken/E-commer
+ce/lecture notes/images/chapter10/bitingbugs_info_regions.png>]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+ [61]
+Missing character: There is no ¬ in font cmti10!
+Missing character: There is no ≠ in font cmti10!
+ [62]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 282.
+
+Overfull \hbox (23.18115pt too wide) in paragraph at lines 287--291
+[]\OT1/cmr/m/n/10 Pattern: page--[front|internal/path].html.twig Base tem-plate
+: page.html.twig
+ []
+
+
+Overfull \hbox (9.80348pt too wide) in paragraph at lines 287--291
+\OT1/cmr/m/n/10 (base lo-ca-tion: $\OT1/cmtt/m/n/10 core / modules / system / t
+emplates / page . html . twig$\OT1/cmr/m/n/10 ) $\OT1/cmtt/m/n/10 http :$
+ []
+
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+
+Overfull \hbox (12.36998pt too wide) in paragraph at lines 303--309
+[]\OT1/cmr/m/n/10 Pattern: block--[module[--delta]].html.twig Base tem-plate: b
+lock.html.twig
+ []
+
+
+Overfull \hbox (5.02023pt too wide) in paragraph at lines 303--309
+\OT1/cmr/m/n/10 (base lo-ca-tion: $\OT1/cmtt/m/n/10 core / modules / block / te
+mplates / block . html . twig$\OT1/cmr/m/n/10 ) \OT1/cmr/m/it/10 mod-
+ []
+
+[63]
+Overfull \hbox (0.5158pt too wide) in paragraph at lines 310--314
+[]\OT1/cmr/m/n/10 Pattern: node--[type|nodeid].html.twig Base tem-plate: node.h
+tml.twig
+ []
+
+Missing character: There is no ¬ in font cmtt10!
+Missing character: There is no ≠ in font cmtt10!
+
+Overfull \hbox (42.078pt too wide) in paragraph at lines 321--325
+[]\OT1/cmr/m/n/10 Pattern: taxonomy-term--[vocabulary-machine-name|tid].html.tw
+ig
+ []
+
+
+Overfull \hbox (12.83167pt too wide) in paragraph at lines 321--325
+$\OT1/cmtt/m/n/10 taxonomy / templates / taxonomyterm . html . twig$\OT1/cmr/m/
+n/10 ) Tem-plate names are made
+ []
+
+
+Overfull \hbox (8.23798pt too wide) in paragraph at lines 332--335
+[]\OT1/cmr/m/n/10 Pattern: field--[type|name[--content-type]|content-type].html
+.twig Base
+ []
+
+
+Overfull \hbox (13.94347pt too wide) in paragraph at lines 332--335
+\OT1/cmr/m/n/10 tem-plate: field.html.twig (base lo-ca-tion: $\OT1/cmtt/m/n/10 
+core / modules / system / templates /$
+ []
+
+
+Overfull \hbox (45.59901pt too wide) in paragraph at lines 343--346
+[]\OT1/cmr/m/n/10 Pattern: comment--node-[type].html.twig Base tem-plate: com-m
+ent.html.twig
+ []
+
+
+Overfull \hbox (7.6338pt too wide) in paragraph at lines 347--349
+[]\OT1/cmr/m/n/10 Pattern: forums--[[container|topic]--forumID].html.twig Base 
+tem-plate:
+ []
+
+
+Overfull \hbox (11.91536pt too wide) in paragraph at lines 347--349
+\OT1/cmr/m/n/10 fo-rums.html.twig (base lo-ca-tion: $\OT1/cmtt/m/n/10 core / mo
+dules / forum / templates / forums .$
+ []
+
+[64]
+Missing character: There is no ¬ in font cmtt10!
+Missing character: There is no ≠ in font cmtt10!
+Missing character: There is no ¬ in font cmtt10!
+Missing character: There is no ≠ in font cmtt10!
+
+Overfull \hbox (5.49895pt too wide) in paragraph at lines 353--355
+\OT1/cmr/m/n/10 search-result.html.twig (base lo-ca-tion: $\OT1/cmtt/m/n/10 cor
+e / modules / search / templates /$
+ []
+
+
+<images/chapter10/page_template_header.png, id=346, 551.81157pt x 332.74312pt>
+File: images/chapter10/page_template_header.png Graphic file (type png)
+
+<use images/chapter10/page_template_header.png>
+Package pdftex.def Info: images/chapter10/page_template_header.png used on inpu
+t line 365.
+(pdftex.def)             Requested size: 345.0pt x 208.04517pt.
+
+<images/chapter10/printing_varibles_and_regions.png, id=347, 113.67468pt x 37.6
+4063pt>
+File: images/chapter10/printing_varibles_and_regions.png Graphic file (type png
+)
+ <use images/chapter10/printing_varibles_and_regions.png>
+Package pdftex.def Info: images/chapter10/printing_varibles_and_regions.png use
+d on input line 381.
+(pdftex.def)             Requested size: 345.0pt x 114.25633pt.
+ [65 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/page_template_header.png>]
+<images/chapter10/executing_statements.png, id=352, 414.79968pt x 152.82094pt>
+File: images/chapter10/executing_statements.png Graphic file (type png)
+
+<use images/chapter10/executing_statements.png>
+Package pdftex.def Info: images/chapter10/executing_statements.png used on inpu
+t line 390.
+(pdftex.def)             Requested size: 345.0pt x 127.10948pt.
+
+<images/chapter10/comments.png, id=353, 199.49532pt x 16.56187pt>
+File: images/chapter10/comments.png Graphic file (type png)
+
+<use images/chapter10/comments.png>
+Package pdftex.def Info: images/chapter10/comments.png used on input line 399.
+(pdftex.def)             Requested size: 345.0pt x 28.64507pt.
+ [66 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/printing_varibles_and_regions.png> <C:/Users/tneu287/Documents/vakken/E-comm
+erce/lecture notes/images/chapter10/executing_statements.png> <C:/Users/tneu287
+/Documents/vakken/E-commerce/lecture notes/images/chapter10/comments.png>]
+<images/chapter10/copyright_region.png, id=360, 348.55219pt x 85.06781pt>
+File: images/chapter10/copyright_region.png Graphic file (type png)
+
+<use images/chapter10/copyright_region.png>
+Package pdftex.def Info: images/chapter10/copyright_region.png used on input li
+ne 409.
+(pdftex.def)             Requested size: 345.0pt x 84.2057pt.
+
+<images/chapter10/page_footer_wrapper.png, id=361, 328.22626pt x 115.93312pt>
+File: images/chapter10/page_footer_wrapper.png Graphic file (type png)
+
+<use images/chapter10/page_footer_wrapper.png>
+Package pdftex.def Info: images/chapter10/page_footer_wrapper.png used on input
+ line 421.
+(pdftex.def)             Requested size: 345.0pt x 121.85895pt.
+ [67 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/copyright_region.png> <C:/Users/tneu287/Documents/vakken/E-commerce/lecture 
+notes/images/chapter10/page_footer_wrapper.png>]
+<images/chapter10/translation_filter.png, id=368, 418.56375pt x 67.0003pt>
+File: images/chapter10/translation_filter.png Graphic file (type png)
+
+<use images/chapter10/translation_filter.png>
+Package pdftex.def Info: images/chapter10/translation_filter.png used on input 
+line 437.
+(pdftex.def)             Requested size: 345.0pt x 55.2248pt.
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+ [68 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/translation_filter.png>]
+<images/chapter10/bitingbugs_updated_title_size.png, id=373, 1014.03844pt x 442
+.65375pt>
+File: images/chapter10/bitingbugs_updated_title_size.png Graphic file (type png
+)
+ <use images/chapter10/bitingbugs_updated_title_size.png>
+Package pdftex.def Info: images/chapter10/bitingbugs_updated_title_size.png use
+d on input line 478.
+(pdftex.def)             Requested size: 345.0pt x 150.6016pt.
+
+<images/chapter10/bitingbugs_ingredients_list.png, id=374, 847.66687pt x 442.65
+375pt>
+File: images/chapter10/bitingbugs_ingredients_list.png Graphic file (type png)
+ <use images/chapter10/bitingbugs_ingredients_list.png>
+Package pdftex.def Info: images/chapter10/bitingbugs_ingredients_list.png used 
+on input line 485.
+(pdftex.def)             Requested size: 345.0pt x 180.1586pt.
+ [69 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter
+10/bitingbugs_updated_title_size.png>]
+<images/chapter10/bitingbugs_ingredients_list_list.png, id=379, 474.27188pt x 2
+35.63031pt>
+File: images/chapter10/bitingbugs_ingredients_list_list.png Graphic file (type 
+png)
+ <use images/chapter10/bitingbugs_ingredients_list_list.png>
+Package pdftex.def Info: images/chapter10/bitingbugs_ingredients_list_list.png 
+used on input line 491.
+(pdftex.def)             Requested size: 345.0pt x 171.41185pt.
+)
+[70 <C:/Users/tneu287/Documents/vakken/E-commerce/lecture notes/images/chapter1
+0/bitingbugs_ingredients_list.png> <C:/Users/tneu287/Documents/vakken/E-commerc
+e/lecture notes/images/chapter10/bitingbugs_ingredients_list_list.png>]
+("C:\Users\tneu287\Documents\vakken\E-commerce\lecture notes\e-commerce.aux")
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6237 strings out of 493921
+ 106081 string characters out of 3144870
+ 409640 words of memory out of 3000000
+ 9373 multiletter control sequences out of 15000+200000
+ 8031 words of font info for 30 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 31i,7n,47p,988b,2768s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on e-commerce.pdf (70 pages, 4855541 bytes).
+PDF statistics:
+ 418 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 416 words of extra memory for PDF output out of 10000 (max. 10000000)
+
