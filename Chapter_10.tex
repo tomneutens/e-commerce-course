@@ -498,25 +498,187 @@ In this exercise you are going to create a new subtheme for our bitingbugs examp
 
 \section{CSS and JavaScript}
 
+In Drupal 8 JavaScript and CSS files are added through libraries.
+
+\subsection{Defining a library}
+
+Add a \url{[My Theme].libraries.yml} file to your theme folder. The libraries file should have the following structure:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/bitingbugs_libraries_yml_2}
+	\label{fig:bitingbugs_libraries_yml_2}
+\end{figure}
+
+This example assumes that the actual JavaScript myscript.js is located in the subfolder js of your theme.
+However, remember that Drupal 8 no longer loads jQuery on all pages by default; Drupal 8 only loads what's necessary. Therefore, we must declare that our theme's myscript library has a dependency on the library that contains jQuery. It is neither a module nor a theme that provides jQuery, it's Drupal core: core/jqueryis the dependency we want to declare. (This is an extension name followed by a slash, followed by the library name, so if some other library wanted to depend on our cuddly-­sliderlibrary, it'd have to declare a dependency on Mytheme/cuddly­slider, because Mytheme is the name of of our theme.) So, to ensure jQuery is available for js/myscript.js, we update the above to:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/bitingbugs_libraries_yml}
+	\label{fig:bitingbugs_libraries_yml}
+\end{figure}
+
+You can specify the media type for each css file, for example if you have a css file for the print layout then add the following line:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/bitingbugs_libraries_yml_print}
+	\label{fig:bitingbugs_libraries_yml_print}
+\end{figure}
+
+
+\subsection{Attaching libraries to page(s)}
+
+\subsubsection{Attaching to all pages}
+To attach a library to all pages that use your theme, declare it in your theme \url{*.info.yml} file, under the libraries key:
+
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/bitingbugs_info_file_libraries}
+	\label{fig:bitingbugs_info_file_libraries}
+\end{figure}
+
+You can list as many libraries as you want, all of them will be loaded on every page. Then clear the cache so that the new information is loaded into Drupal.
+
+\subsubsection{Attaching a library to a subset of pages}
+
+In some cases, you do not need your library to be active for all pages, but just a subset of pages. For example, you might need your library to be active only when a certain block is being shown, or when a certain node type is being displayed.
+
+First we define our library \url{[theme name].libraries.yml}:
 
 
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/bitingbugs_libraries_yml_attach}
+	\label{fig:bitingbugs_libraries_yml_attach}
+\end{figure}
+
+A theme can make this happen by implementing a THEME\_preprocess\_HOOK() function in the .theme file, replacing \textit{THEME} with the machine name of your theme and \textit{HOOK} by the machine name of the theme hook.
+For instance, if you want to attach JavaScript to the maintenance page, the \textit{HOOK} part is "maintenance\_page", and your function would look like this:
 
 
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/bitingbugs_dot_theme_file}
+	\label{fig:bitingbugs_dot_theme_file}
+\end{figure}
+
+You can do something similar for other theme hooks, and of course your function can have logic in it ­­ for instance to detect which block is being preprocessed in the \textit{block} hook, which node type for the \textit{node} hook, etc.
+
+
+\subsubsection{Attaching a library in a twig template}
+
+You can also attach a library in a twig template by using the attach\_library() twig function So in any \url{*.html.twig}:
 
 
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/bitingbugs_attach_lib_in_twig_file}
+	\label{fig:bitingbugs_attach_lib_in_twig_file}
+\end{figure}
+
+\subsubsection{Inline JavaScript}
+
+Inline JavaScript is discouraged. It's recommended to put the JS you want to use inline in a file instead, because that allows that JavaScript to be cached on the client side. It also allows JavaScript code to be reviewed and linted.
 
 
 
+\section{Review exercises}
+
+In the next exercises we are going to change the look of our site. 
+
+\begin{enumerate}
+	\item Create a css folder in bitingbugs\_bartik theme folder. In this folder create a mytheme.css file.
+	\item Add the \url{mytheme.css} file to the \url{.libraries} file.
+	\item We are going to create a new view which displays a list of all recipes. Go to \textbf{Structure $\rightarrow$ Views $\rightarrow$ Create View}. Add a page view which displays all recipes sorted by newest first. Add a link to your page in the main navigation.
+	\item Change the image style to \textbf{None, (Original Image)}. Do this in the teaser view of our recipe content type.
+	\item The next part is pretty difficult. We are going to change the structure of our recipe html page by overriding different templates. The following image shows the structure we are trying to create: 
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=\textwidth]{chapter10/bitingbugs_recipes_pages_structure}
+		\label{fig:bitingbugs_recipes_pages_structure}
+	\end{figure}
+	
+	First make sure you have enabled debugging in your \url{services.yml} file. Look for the div with the class \textit{view-content} containing four article elements.
+	Use the debug information to override the right templates until you get the correct structure.
+	\item Next we are going to change the \url{mytheme.css} file to update our layout. Change the css file to make your page look as follows: 
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=\textwidth]{chapter10/bitingbugs_recipes_page_themed}
+		\label{fig:bitingbugs_recipes_page_themed}
+	\end{figure}
+	
+\end{enumerate}
+
+\subsection{JavaScript}
+
+Now that we’ve seen how to add js in different ways, it’s time to look at some best practices.
+
+\subsubsection{JavaScript closures}
+
+It's best practice to wrap your code in a closure. A closure is nothing more than a function that helps limit the scope of variables so you don't accidentally overwrite global variables.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/closures_js}
+	\label{fig:closures_js}
+\end{figure}
+
+A closure can have one other benefit, if we pass jQuery in as a parameter we can map it to the \$ shortcut allowing us to use \$() without worrying if jQuery.noConflict() has been called.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/passing_jquery}
+	\label{fig:passing_jquery}
+\end{figure}
 
 
+\subsubsection{Behaviors}
+If you’re adding JavaScript to your custom module it is very easy and tempting to simply add it like this:
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/document_ready}
+	\label{fig:document_ready}
+\end{figure}
 
+Now this code works perfectly fine but what if your JavaScript needs to be executed on page load and after an AJAX request? Imagine you have a view that uses “Views Infinite Scroll” and you want add a CSS class to every result like this:
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/new_class}
+	\label{fig:new_class}
+\end{figure}
 
+This will work for the results that are displayed initially but for all the results that are loaded by Infinite Scroll's AJAX call the class is not added. That’s where “Drupal behaviors” come in handy. The behaviors will be executed on every request including AJAX requests, so let's do the equivalent of the code above but this time using this method:
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/closure_map_jquery}
+	\label{fig:closure_map_jquery}
+\end{figure}
+
+I admit that was quick ­ so here are some explanations:
+\begin{itemize}
+	\item infiniteScrollAddClass: This is your namespace and should be unique. For example, this is typically the name of your module, but it isn't mandatory.
+	\item context: This is actually really cool, on page load the context will contain the entire document and after an AJAX request will have all the newly loaded elements. This way you can treat content that is loaded in via AJAX differently than others.
+	\item settings: This contains information passed on to JavaScript via PHP, it is similar to accessing it via Drupal.settings. There obviously are cases where some functionality should not be executed on every request. In such a case its great to use jQuery's .once() method. So let's say we want to give all the initially loaded results in our view an additional class, for something like this we would proceed like so:
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{chapter10/drupal_ininitescroll}
+	\label{fig:drupal_ininitescroll}
+\end{figure}
+
+This will add the class \textit{i­was­here­first} to all the view results present on page load, everybody else joining in via AJAX will just get the \textit{new­class} class.
 
 
 
